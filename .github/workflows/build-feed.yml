@@ -1,0 +1,32 @@
+name: Build Merchant feed
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # запуск кожні 6 годин
+  workflow_dispatch:         # + можливість запустити вручну кнопкою
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate feed
+        run: python hotline_to_merchant.py --url "https://koritsa.net.ua/marketplace-integration/hotline/92bad1ab6b85d8a6a700d30fb8342ddd?langId=3" --out merchant.xml
+
+      - name: Commit feed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add merchant.xml
+          git commit -m "Update merchant.xml" || echo "Без змін"
+          git push
