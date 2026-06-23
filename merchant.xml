@@ -5579,19 +5579,6 @@
       <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
     </item>
     <item>
-      <g:id>1000004231</g:id>
-      <g:title>Гелевий барвник Фуксія Sekersugar 25 грам</g:title>
-      <g:description>Готовий гелеподібний харчовий барвник.  Застосування: призначений для фарбування різних рідин, кремів (білкового, заварного), мусів, желе, мармеладу, джема, морозива, вершків, тіста, цукрової мастики. Переваги: - не містить жирів рослинного походження - висококонцентрований - не містить глютен, ГМО. Термін придатності: 24 місяців з моменту виробництва. Умови зберігання: у сухому, захищеному від сонячного світла місці при температурі від 10 до 20°C. Паковання: пластикова баночка, вага нетто — 25 мл. Виробник: Туреччина, SekerSugar</g:description>
-      <g:link>https://koritsa.net.ua/helevyi-barvnyk-fuksiia-sekersugar-25-hram/</g:link>
-      <g:image_link>https://koritsa.net.ua/content/images/5/87922461247165_+8aa4907b06.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>79 UAH</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>Sekersugar</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
-    </item>
-    <item>
       <g:id>1000004233</g:id>
       <g:title>Гелевий барвник Блакитний Sekersugar 25 грам</g:title>
       <g:description>Готовий гелеподібний харчовий барвник. Застосування: призначений для фарбування різних рідин, кремів (білкового, заварного), мусів, желе, мармеладу, джема, морозива, вершків, тіста, цукрової мастики. Переваги: - не містить жирів рослинного походження - висококонцентрований - не містить глютен, ГМО. Термін придатності: 24 місяця з моменту виробництва. Умови зберігання: у сухому, захищеному від сонячного світла місці при температурі від 10 до 20°C. Паковання: пластикова банка, вага нетто — 25 мл. Виробник: Туреччина, SekerSugar</g:description>
@@ -7657,7 +7644,7 @@
 Матеріал - мілований картон.</g:description>
       <g:link>https://koritsa.net.ua/korobka-dlia-desertiv-tiulpan-na-9-sht.-26026090/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/4/57082499849097_+96ea7c61f0.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>38 UAH</g:price>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
@@ -16448,6 +16435,56 @@
       <g:image_link>https://koritsa.net.ua/content/images/19/73542492658195_+4d6f74f921.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>144 UAH</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Dr.Gusto</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
+    </item>
+    <item>
+      <g:id>1000004717</g:id>
+      <g:title>Кандурин спрей золотий блиск 10 грамів Dr.Gusto</g:title>
+      <g:description>Їстівний кандурин з розпилювачем. Дані харчові барвники рекомендується використовувати в кондитерській та хлібопекарській промисловості для надання блискучого ефекту поверхні готових виробів із шоколаду, ганашу, глазурі, мастики, марципану, і т.п. Забарвлення желеподібних виробів роблять додаванням безпосередньо в продукт на будь-якій стадії приготування. 
+
+Термін придатності: 5 років
+
+Упаковка: прозорі контейнери з розпилювачем. Маса нетто 10 г
+
+У сухому, захищеному від сонячного світла місці при температурі від 10 до 25°C.
+
+Виробник: Туреччина, Dr.Gusto</g:description>
+      <g:link>https://koritsa.net.ua/kandurin-sprey/1369/</g:link>
+      <g:image_link>https://koritsa.net.ua/content/images/20/34374170929835_+a1325e6d59.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>440 UAH</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Dr.Gusto</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
+    </item>
+    <item>
+      <g:id>4731</g:id>
+      <g:title>Гелевий барвник Карамель Dr.Gusto 100 грам</g:title>
+      <g:description>Характеристика: готова фарба гелеподібна з відповідним кольором.
+
+Склад: вода, інвертний сироп, гліцерин, цукор, барвники харчові, крохмаль, гуарова камедь, камедь ріжкового дерева, консерванти.
+
+Застосування: Повністю готовий до вживання концентрований харчовий барвник призначений для надання забарвлення різним рідинам, кремам (масляному, білковому, заварному), мусам, желе, мармеладам, джемам, морозиву, вершкам, тестам, цукровій мастиці.
+
+Рекомендації до застосуванню: Перед застосуванням проколіть пломбу тюбика, внесіть необхідну кількість барвника до продукту та закрутіть кришку.
+
+Рекомендоване дозування: 2-3 краплі (1-1,5 г) на 100 г продукту.
+
+Термін придатності: 24 місяці з моменту виробництва.
+
+У сухому, захищеному від сонячного світла місці при температурі від 10 до 20°C.
+
+Упаковка: пластиковий тюбик, вага нетто – 100мл.
+
+Виробник: Dr.Gusto, Туреччина</g:description>
+      <g:link>https://koritsa.net.ua/gelevye-pishchevye-krasiteli/1370/</g:link>
+      <g:image_link>https://koritsa.net.ua/content/images/21/63117913556172_+360098c0bb.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>248 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Dr.Gusto</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
