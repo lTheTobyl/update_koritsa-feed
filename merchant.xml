@@ -6546,7 +6546,7 @@
 Виробник: Туреччина, Sekersugar</g:description>
       <g:link>https://koritsa.net.ua/barvnyk-zhyrorozchynnyi-poroshkovyi-rozhevyi-7-hrammiv-sekersugar/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/48/26148288658716_+7f4e53343a.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>95 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Sekersugar</g:brand>
@@ -6566,7 +6566,7 @@
 Виробник: Туреччина, Sekersugar</g:description>
       <g:link>https://koritsa.net.ua/barvnyk-zhyrorozchynnyi-poroshkovyi-chornyi-7-hrammiv-sekersugar/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/49/32756043852766_+3f92ec14ea.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>95 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Sekersugar</g:brand>
@@ -10137,7 +10137,7 @@
 Виробник: Туреччина, SekerSugar</g:description>
       <g:link>https://koritsa.net.ua/helevyi-barvnyk-chervonyi-sekersugar-20-hramiv/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/20/47090687051804_+e77c2336f8.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>90 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Sekersugar</g:brand>
@@ -10505,7 +10505,7 @@
 Виробник: Туреччина, SekerSugar</g:description>
       <g:link>https://koritsa.net.ua/helevyi-barvnyk-kharchovyi-korychnevyi-sekersugar-20-hramiv/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/42/41745725803674_+a151534594.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>90 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Sekersugar</g:brand>
@@ -10615,7 +10615,11 @@
     <item>
       <g:id>1000004684</g:id>
       <g:title>Вафельна крихта (Роялтін) Помаранчева Dr.Gusto 250 грамів</g:title>
-      <g:description>Роялтин — Хрустка вафельна крихта помаранчевого кольору зі смаком апельсину. Використовуюється в кондитерському виробництві як елемент декору і як додавання в начинки цукерок, тортів, десертів. Фасовка: 250 грамів Виробник: Туреччина, Dr.Gusto</g:description>
+      <g:description>Роялтин — Хрустка вафельна крихта помаранчевого кольору зі смаком апельсину. Використовуюється в кондитерському виробництві як елемент декору і як додавання в начинки цукерок, тортів, десертів.
+
+Фасовка: 250 грамів
+
+Виробник: Туреччина, Dr.Gusto</g:description>
       <g:link>https://koritsa.net.ua/vafelna-krykhta-roialtin-pomarancheva-dr.gusto-250-hramiv/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/47/13190031939910_+513d3b5ab0.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -16551,6 +16555,96 @@
       <g:price>736 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Dr.Gusto</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
+    </item>
+    <item>
+      <g:id>1000004702</g:id>
+      <g:title>Вафельна крихта (Роялтін) Лимон Dr.Gusto 250 грамів</g:title>
+      <g:description>Роялтин — Хрустка вафельна крихта жовтого кольору зі смаком лимону. Використовуюється в кондитерському виробництві як елемент декору і як додавання до начинок цукерок, тортів, десертів.
+
+Фасовка: 250 грамів
+
+Виробник: Туреччина, Dr.Gusto</g:description>
+      <g:link>https://koritsa.net.ua/vafelnye-tsvety-vafelnaya-kroshkaroyaltin-butoni-roz-sushenye/1373/</g:link>
+      <g:image_link>https://koritsa.net.ua/content/images/24/69716854304292_+271377c00f.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>230 UAH</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Dr.Gusto</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
+    </item>
+    <item>
+      <g:id>1000004702</g:id>
+      <g:title>Вафельна крихта (Роялтін) Лимон Dr.Gusto 1 кг</g:title>
+      <g:description>Роялтин — Хрустка вафельна крихта жовтого кольору зі смаком лимону. Використовуюється в кондитерському виробництві як елемент декору і як додавання до начинок цукерок, тортів, десертів.
+
+Фасовка: 1 кг
+
+Виробник: Туреччина, Dr.Gusto</g:description>
+      <g:link>https://koritsa.net.ua/copy_vafelna-krykhta-roialtin-lymon-dr.gusto-250-hramiv/</g:link>
+      <g:image_link>https://koritsa.net.ua/content/images/25/92065399736524_+14df70b762.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>730 UAH</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Dr.Gusto</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
+    </item>
+    <item>
+      <g:id>1000004558</g:id>
+      <g:title>Посипка кондитерська Сердечки білі 50 грамів</g:title>
+      <g:description>Посипка кондитерська. Цукрові вироби - сердечки білі. Розмір 1 см.
+
+Застосування: використовувати як прикрасу для кондитерських виробів.
+
+Термін придатності: 24 міс
+
+Виробник: Туреччина, Sekersugar</g:description>
+      <g:link>https://koritsa.net.ua/posypka-konditerskaya-sakharnaya-italiya-turtsiya/1375/</g:link>
+      <g:image_link>https://koritsa.net.ua/content/images/26/57182283540797_+d38766daf8.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>45 UAH</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Sekersugar</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
+    </item>
+    <item>
+      <g:id>1000004558</g:id>
+      <g:title>Посипка кондитерська Сердечки білі Sekersugar 1 кг</g:title>
+      <g:description>Посипка кондитерська. Цукрові вироби - сердечки білі. Розмір 1 см.
+
+Застосування: використовувати як прикрасу для кондитерських виробів.
+
+Термін придатності: 24 міс
+
+Виробник: Туреччина, Sekersugar</g:description>
+      <g:link>https://koritsa.net.ua/copy_posypka-kondyterska-serdechky-chervoni-sekersugar-1-kh/</g:link>
+      <g:image_link>https://koritsa.net.ua/content/images/27/copy_posypka-kondyterska-serdechky-chervoni-sekersugar-1-kh-13588652865033_+ad3daaaeff.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>850 UAH</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Sekersugar</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
+    </item>
+    <item>
+      <g:id>1000004552</g:id>
+      <g:title>Посипка кондитерська цукрова ПЕРЛИ червоні 8 мм (50 грамів)</g:title>
+      <g:description>Посипка цукрова. Кондитерський декор у вигляді бусинок. Цукрові кульки червоного кольору. Розмір 8 мм.
+Термін придатності: 24 місяці.
+
+Фасування: 50 грамів
+Умови зберігання: зберігати вдалині від джерел тепла та сонячних променів при температурі від 15 до 20 °C.
+Виробник: Турция, Sekersugar</g:description>
+      <g:link>https://koritsa.net.ua/posypka-konditerskaya-sakharnaya-italiya-turtsiya/1377/</g:link>
+      <g:image_link>https://koritsa.net.ua/content/images/28/47432210820086_+d7f222bb22.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>45 UAH</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Sekersugar</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
     </item>
