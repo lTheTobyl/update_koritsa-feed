@@ -291,7 +291,7 @@
 Виробник: Туреччина, ТМ OVALETTE</g:description>
       <g:link>https://koritsa.net.ua/dekohel-dlia-torta-polunytsia-1-kh/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/22/34888320066871_+2b4d6deabb.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>225 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Ovalette</g:brand>
@@ -766,7 +766,7 @@
 Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, печива, пряників, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
       <g:link>https://koritsa.net.ua/posypka-fihurna-tsukrova-konfeti/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/50/25690153943680_+dc06a33eea.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>25 UAH</g:price>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
@@ -1107,8 +1107,8 @@
 
 Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
       <g:link>https://koritsa.net.ua/posypka-nonparel-perlamutrova-biriuzova/</g:link>
-      <g:image_link>https://koritsa.net.ua/content/images/17/66547656448197_+a32562ef28.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:image_link>https://koritsa.net.ua/content/images/17/posypka-nonparel-perlamutrova-biriuzova-15789977423524_+66fcfe8821.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
       <g:price>25 UAH</g:price>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
@@ -1123,7 +1123,7 @@
 
 Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
       <g:link>https://koritsa.net.ua/posypka-nonparel-perlamutrova-vyshneva/</g:link>
-      <g:image_link>https://koritsa.net.ua/content/images/18/24048628707818_+8b38d41f14.jpg</g:image_link>
+      <g:image_link>https://koritsa.net.ua/content/images/18/posypka-nonparel-perlamutrova-vyshneva-40975506668088_+9c6152c8c7.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>25 UAH</g:price>
       <g:condition>new</g:condition>
@@ -1133,10 +1133,14 @@
     <item>
       <g:id>117</g:id>
       <g:title>Посипка Нонпарель перламутрова жовта</g:title>
-      <g:description>Посипка кондитерська - декоративна цукрова посипка Розмір декору: 2 мм Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, печива, пряників, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
+      <g:description>Посипка кондитерська - декоративна цукрова посипка
+
+Розмір декору: 2 мм
+
+Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, печива, пряників, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
       <g:link>https://koritsa.net.ua/posypka-nonparel-perlamutrova-zhovta/</g:link>
-      <g:image_link>https://koritsa.net.ua/content/images/19/63247077531211_+46d4a873d9.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:image_link>https://koritsa.net.ua/content/images/19/posypka-nonparel-perlamutrova-zhovta-53617649134838_+9014d4d3c1.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
       <g:price>25 UAH</g:price>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
@@ -1151,7 +1155,7 @@
 
 Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
       <g:link>https://koritsa.net.ua/posypka-nonparel-perlamutrova-chervona/</g:link>
-      <g:image_link>https://koritsa.net.ua/content/images/20/23925528479260_+31c7da2555.jpg</g:image_link>
+      <g:image_link>https://koritsa.net.ua/content/images/20/posypka-nonparel-perlamutrova-chervona-15731147949152_+3c3ea6d961.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>25 UAH</g:price>
       <g:condition>new</g:condition>
@@ -1167,7 +1171,7 @@
 
 Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
       <g:link>https://koritsa.net.ua/posypka-nonparel-perlamutrova-pomarancheva/</g:link>
-      <g:image_link>https://koritsa.net.ua/content/images/21/97263243543626_+09583bd4f5.jpg</g:image_link>
+      <g:image_link>https://koritsa.net.ua/content/images/21/posypka-nonparel-perlamutrova-pomarancheva-51778633404139_+8f12b5b1be.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>25 UAH</g:price>
       <g:condition>new</g:condition>
@@ -1183,7 +1187,7 @@
 
 Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, печива, пряників, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
       <g:link>https://koritsa.net.ua/posypka-tsukrova-perlamutrova-rozheva/</g:link>
-      <g:image_link>https://koritsa.net.ua/content/images/22/47049530748544_+0911e037f1.jpg</g:image_link>
+      <g:image_link>https://koritsa.net.ua/content/images/22/posypka-tsukrova-perlamutrova-rozheva-60833902232932_+0d59777688.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>25 UAH</g:price>
       <g:condition>new</g:condition>
@@ -1193,9 +1197,11 @@
     <item>
       <g:id>1000002578</g:id>
       <g:title>Посипка Нонпарель перламутрова бузкова</g:title>
-      <g:description>Посипка кондитерська - декоративна цукрова посипка Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
+      <g:description>Посипка кондитерська - декоративна цукрова посипка
+
+Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
       <g:link>https://koritsa.net.ua/posypka-nonparel-perlamutrova-buzkova/</g:link>
-      <g:image_link>https://koritsa.net.ua/content/images/23/98048256580888_+ab399e2976.jpg</g:image_link>
+      <g:image_link>https://koritsa.net.ua/content/images/23/posypka-nonparel-perlamutrova-buzkova-46465623307886_+6025641b97.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>25 UAH</g:price>
       <g:condition>new</g:condition>
@@ -1411,7 +1417,7 @@
 
 Виробництво: Україна</g:description>
       <g:link>https://koritsa.net.ua/posypka-tsukrova-perlamutrova-temno-zelena/</g:link>
-      <g:image_link>https://koritsa.net.ua/content/images/38/42619854644628_+f421d1f33b.jpg</g:image_link>
+      <g:image_link>https://koritsa.net.ua/content/images/38/posypka-tsukrova-perlamutrova-temno-zelena-95705466076445_+dce6a99d0b.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>20 UAH</g:price>
       <g:condition>new</g:condition>
@@ -1454,7 +1460,7 @@
 Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, печива, пряників, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
       <g:link>https://koritsa.net.ua/posypka-kondyterska-tsukrova-serdechka-bilo-chervono-rozhevi/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/41/91265586260386_+2898062fb5.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>25 UAH</g:price>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
@@ -1470,7 +1476,7 @@
 Застосування: Декоративні кондитерські посипання наносять на поверхню готових виробів (тортів, тістечок , кексів, рулетів, морозива, шоколадної глазурі, цукрової помадки, здоби і т. д.) для надання їм красивого зовнішнього вигляду.</g:description>
       <g:link>https://koritsa.net.ua/posypka-tsukrova-fihurna-serdechka-2-100-hramiv/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/42/87593529355876_+5d5437cd8f.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>25 UAH</g:price>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
@@ -10918,7 +10924,7 @@
 Харчова цінність 100 гр., продукту: Вуглеводи, g(г): 6,0 з них цукрів 4,0; Білки, g(г): 0,79</g:description>
       <g:link>https://koritsa.net.ua/polunytsia-piure-zamorozhena-500-hramiv-fruity-land/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/10/94938023289847_+f71f3faf4e.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>195 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Fruitland</g:brand>
@@ -10945,7 +10951,7 @@
 Харчова цінність 100 гр., продукту: Вуглеводи, g(г): 13,0 з них цукрів 5,0; Білки, g(г): 1,0; Жири, g(г): 0,58 їх насичених, g(г): 0,0; сіль, g(г): 0,0.</g:description>
       <g:link>https://koritsa.net.ua/malyna-piure-zamorozhene-500-hramiv-fruity-land/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/11/36639166421769_+a920f7d55d.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>280 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Fruitland</g:brand>
@@ -11410,7 +11416,7 @@
 Енергетична цінність та калорійність на 100 г: 1034,22 кДж/kJ; (247,02 ккал/kcal). Поживна цінність 100 гр. продукту: жири – 0,06g(г), їх насичені жири 0,0g(г); білки - 0,0 g (г); вуглеводи –61,62 g(г), їх цукру 54,62 g(г); сіль 0,01 г(г).</g:description>
       <g:link>https://koritsa.net.ua/malyna-pasta-kontsentrovana-0.5-kh-fruity-land/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/29/68606025722675_+418b5fde80.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>225 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Fruitland</g:brand>
@@ -11598,7 +11604,7 @@
       <g:description>Глазур кондитерська широко використовується для покриття десертів , виготовлення ганашу, кремів. З глазурью легко працювати так, як вона не потребує темперування, швидко плавится. Надає блиску готовому виробу.  Фасування : 500 грамів Виробник: Україна, ТМ Мир</g:description>
       <g:link>https://koritsa.net.ua/hlazur-kondyterska-chorna-chipsytm-myr-500-hramiv/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/42/47176855928593_+21b3f0864a.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>110 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Мир</g:brand>
@@ -11624,7 +11630,7 @@
       <g:description>Глазур кондитерська широко використовується для покриття десертів , виготовлення ганашу, кремів. З глазурью легко працювати так, як вона не потребує темперування, швидко плавится. Надає блиску готовому виробу.  Фасування : 1 кг Виробник: Україна, ТМ Мир</g:description>
       <g:link>https://koritsa.net.ua/hlazur-kondyterska-chorna-chipsytm-myr-1-kh/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/44/45566584376263_+ba1e54bfa2.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>200 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Мир</g:brand>
@@ -11815,7 +11821,7 @@
       <g:description>Шоколадний декор (темний шоколад) в цукровій глазурі, розмір декору 30х15 мм. Упаковка : 1 кг В 1 кг приблизно - 280 штук  Виробник: Італія, Buratti</g:description>
       <g:link>https://koritsa.net.ua/drazhe-shokoladne-zyma-1-kh/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/8/26705461657959_+4e8dff0494.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>885 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Buratti</g:brand>
@@ -13008,7 +13014,7 @@
       <g:description>Цукрові кульки рожеві для декорування кондитерських виробів.  Діаметр: 5 мм.  Вага: 1 кг. Виробник: Італія, Buratti</g:description>
       <g:link>https://koritsa.net.ua/posypka-kondyterska-metalizovana-kulky-tsukrovi-rozhevi-d-5-mm-1-kh/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/46/50761989257483_+80475d4738.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1314 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Buratti</g:brand>
@@ -14674,7 +14680,7 @@
 Виробник: Україна, ТМ Мир</g:description>
       <g:link>https://koritsa.net.ua/naturalnyy-shokolad-glazurplastichnyy-shokolad-shokoladnaya-vermishel-termostabilnye-dropsy/1279/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/30/71189082248668_+6271428e98.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>141 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Мир</g:brand>
@@ -15638,7 +15644,7 @@
 Виробник: Італія, Buratti</g:description>
       <g:link>https://koritsa.net.ua/dekor-shokoladnyy-v-glazuri/1313/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/14/87616870585786_+1b4944cdda.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>885 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Buratti</g:brand>
@@ -15780,7 +15786,7 @@
 Вага: 1 кг</g:description>
       <g:link>https://koritsa.net.ua/shariki-metallizirovannye-sakharnye/1320/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/21/76994746447161_+9d0d10a46a.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>1314 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Buratti</g:brand>
@@ -15799,7 +15805,7 @@
 Вага:50 грамів</g:description>
       <g:link>https://koritsa.net.ua/shariki-metallizirovannye-sakharnye/1321/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/22/38905968776096_+8da5d21d8b.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>76 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Buratti</g:brand>
@@ -16645,6 +16651,36 @@
       <g:price>45 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Sekersugar</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
+    </item>
+    <item>
+      <g:id>3535</g:id>
+      <g:title>Посипка Нонпарель перламутрова біла</g:title>
+      <g:description>Посипка кондитерська - декоративна цукрова посипка
+
+Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.</g:description>
+      <g:link>https://koritsa.net.ua/konditerskaya-posypka-sakharnaya-figurnaya-ukraina/1378/</g:link>
+      <g:image_link>https://koritsa.net.ua/content/images/29/97815776599887_+28d1edf712.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>25 UAH</g:price>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
+    </item>
+    <item>
+      <g:id>112</g:id>
+      <g:title>Посипка цукрова перламутрова Світло-зелена</g:title>
+      <g:description>Посипка кондитерська - декоративна цукрова посипка
+
+Застосування: Декоративні кондитерські посипки наносять на поверхню готових виробів (тортів, тістечок, кексів, рулетів, морозива, шоколадної глазурі, цукрової помадки, здоби тощо) для надання їм гарного зовнішнього вигляду.
+
+Виробництво: Україна</g:description>
+      <g:link>https://koritsa.net.ua/konditerskaya-posypka-sakharnaya-figurnaya-ukraina/1379/</g:link>
+      <g:image_link>https://koritsa.net.ua/content/images/30/11901524382820_+fc4cc47243.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>20 UAH</g:price>
+      <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
     </item>
