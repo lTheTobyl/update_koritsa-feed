@@ -2232,7 +2232,7 @@
 Виробник: Італія, Buratti</g:description>
       <g:link>https://koritsa.net.ua/drazhe-shokoladne-zyma-200-hramiv/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/45/72519868489304_+067c50c953.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>96 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Buratti</g:brand>
@@ -7453,8 +7453,8 @@
       <g:description>Бланшироване мигдальне борошно мілкого помолу Виробник : Іспанія, Calconut Пакування : 1 кг</g:description>
       <g:link>https://koritsa.net.ua/myhdalne-boroshno-culconut-1-kh/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/46/81931498327466_+04af22b111.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>680 UAH</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:price>770 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Calconut</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
