@@ -117,7 +117,7 @@
 Виробництво: Нідерланди</g:description>
       <g:link>https://koritsa.net.ua/kakao-poroshok-hollandiia-20-22-cargill-200-hramiv/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/16/34849738873835_+d7afad721e.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>160 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Cargill</g:brand>
@@ -2037,7 +2037,7 @@
 Виробництво: Нідерланди</g:description>
       <g:link>https://koritsa.net.ua/kakao-poroshok-niderlandy-20-22-1-kh-cargill/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/32/31761152765109_+527bfed043.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>740 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Cargill</g:brand>
@@ -11103,7 +11103,7 @@
 Об'єм: 150 мл</g:description>
       <g:link>https://koritsa.net.ua/sprei-veliur-kondyterskyi-zhovtyi-150-ml-dr.gusto/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/20/67509637712980_+1fac5016ca.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>585 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Dr.Gusto</g:brand>
@@ -11472,8 +11472,8 @@
 
 Виробник: Туреччина, Dr. Gusto</g:description>
       <g:link>https://koritsa.net.ua/piropapir-10-arkushiv-dr.gusto/</g:link>
-      <g:image_link>https://koritsa.net.ua/content/images/38/56448529145765_+b41514654b.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:image_link>https://koritsa.net.ua/content/images/38/piropapir-10-arkushiv-dr.gusto-71178362370069_+cd28ca4827.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
       <g:price>585 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Dr.Gusto</g:brand>
@@ -13736,7 +13736,7 @@
       <g:link>https://koritsa.net.ua/vafelna-krykhta-roialtin-dr.gusto-1-kh/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/34/17314680964165_+16f5912283.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>670 UAH</g:price>
+      <g:price>736 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Dr.Gusto</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
