@@ -117,7 +117,7 @@
 Виробництво: Нідерланди</g:description>
       <g:link>https://koritsa.net.ua/kakao-poroshok-hollandiia-20-22-cargill-200-hramiv/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/16/34849738873835_+d7afad721e.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>160 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Cargill</g:brand>
@@ -1056,7 +1056,7 @@
       <g:link>https://koritsa.net.ua/netanucha-termostabilna-tsukrova-pudra-200-hramiv/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/16/38362549186984_+7b6ae411b0.jpg</g:image_link>
       <g:availability>out_of_stock</g:availability>
-      <g:price>50 UAH</g:price>
+      <g:price>59 UAH</g:price>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>Все для дома &gt; Кофе, чай, алкоголь &gt; Кофе, чай, сладости &gt; Кондитерские изделия</g:product_type>
@@ -1590,7 +1590,7 @@
 Виробник: Німеччина Schokinag</g:description>
       <g:link>https://koritsa.net.ua/naturalnyi-bilyi-shokolad-29-schokinag-1-kh/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/1/90050121112515_+e6324eda8c.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>710 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Schokinag</g:brand>
@@ -2037,7 +2037,7 @@
 Виробництво: Нідерланди</g:description>
       <g:link>https://koritsa.net.ua/kakao-poroshok-niderlandy-20-22-1-kh-cargill/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/32/31761152765109_+527bfed043.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>740 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Cargill</g:brand>
@@ -7452,8 +7452,8 @@
       <g:description>Бланшироване мигдальне борошно мілкого помолу Виробник : Іспанія, Calconut Пакування : 1 кг</g:description>
       <g:link>https://koritsa.net.ua/myhdalne-boroshno-culconut-1-kh/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/46/81931498327466_+04af22b111.jpg</g:image_link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>770 UAH</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:price>780 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Calconut</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
