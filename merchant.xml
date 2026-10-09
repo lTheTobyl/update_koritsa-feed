@@ -3805,7 +3805,7 @@
 Виробник : Туреччина Dr.Gusto</g:description>
       <g:link>https://koritsa.net.ua/izomalt-zelenyi-250-hramiv/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/14/71960683155837_+78cf5419ff.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>260 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Dr.Gusto</g:brand>
@@ -3847,7 +3847,7 @@
 Виробник : Туреччина Dr.Gusto</g:description>
       <g:link>https://koritsa.net.ua/izomalt-chornyi-250-hramiv/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/16/44417357875877_+a465ab0ef6.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>260 UAH</g:price>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
@@ -13103,7 +13103,7 @@
 Виробник: Туреччина, Dr.Gusto</g:description>
       <g:link>https://koritsa.net.ua/maslo-sprei-dlia-vypikannia-ta-smazhennia-250-ml-dr.gusto-turechchyna/</g:link>
       <g:image_link>https://koritsa.net.ua/content/images/8/15445977096292_+f6aab65576.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>265 UAH</g:price>
       <g:condition>new</g:condition>
       <g:brand>Dr.Gusto</g:brand>
